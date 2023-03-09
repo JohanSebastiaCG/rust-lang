@@ -1,3 +1,4 @@
+// Function main
 fn main() {
   let x = 10;
   let y = 15;
