@@ -4,7 +4,7 @@ use std::io;
 
 fn main() {
     println!("guess the number");
-    println!("please input your please");
+    println!("please input your please: ");
 
     let mut guess = String::new();
 
